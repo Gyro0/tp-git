@@ -1,4 +1,4 @@
 # Git & GIthub Lab
 
 # Lab Objectives
-# feature from feature-B.TEST
+# feature from feature-A
